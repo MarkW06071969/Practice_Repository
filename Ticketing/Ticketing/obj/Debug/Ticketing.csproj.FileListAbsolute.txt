@@ -42,3 +42,13 @@ D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\
 D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.GenerateResource.Cache
 D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.exe
 D:\MyTafe\2107_S2\5TSD\Resources\Session03\StudentFiles\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
+C:\Practice_Repository\Practice_Repository\Ticketing\Ticketing\bin\Debug\Ticketing.exe.config
+C:\Practice_Repository\Practice_Repository\Ticketing\Ticketing\bin\Debug\Ticketing.exe
+C:\Practice_Repository\Practice_Repository\Ticketing\Ticketing\bin\Debug\Ticketing.pdb
+C:\Practice_Repository\Practice_Repository\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.AssemblyReference.cache
+C:\Practice_Repository\Practice_Repository\Ticketing\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+C:\Practice_Repository\Practice_Repository\Ticketing\Ticketing\obj\Debug\Ticketing.TicketsForm.resources
+C:\Practice_Repository\Practice_Repository\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.GenerateResource.cache
+C:\Practice_Repository\Practice_Repository\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.CoreCompileInputs.cache
+C:\Practice_Repository\Practice_Repository\Ticketing\Ticketing\obj\Debug\Ticketing.exe
+C:\Practice_Repository\Practice_Repository\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
